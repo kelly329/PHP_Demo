@@ -1,0 +1,3 @@
+# PHP_Demo
+汇总php学习的案例
+php_ajax_shoplist即为PHP＆Ajax技术在购物车中的应用
